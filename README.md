@@ -1,2 +1,0 @@
-# crescentbot
-Crescent BOT
